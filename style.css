@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  color: #FFFFFF;
+  margin: 10px auto;
+  max-width: 80em;
+  padding: 20px
+  background: #000428;
+  background: -webkit-linear-gradient(to left, #000428 , #004e92);
+  background: linear-gradient(to left, #000428 , #004e92);
+}
+
+div:focus {
+  outline: none;
+}
+
+#heading {
+  font-size: 3em;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+#content {
+  font-size: 2em;
+  padding: 5px;
+  margin-top: 10px;
+}
